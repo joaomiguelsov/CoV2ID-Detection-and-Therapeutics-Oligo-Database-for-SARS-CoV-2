@@ -6,3 +6,5 @@ CoV2ID is an open-access, curated database of oligonucleotide sequences — incl
 The database was developed as part of an EU-funded initiative and supports the rapid identification of validated oligonucleotide candidates for PCR-based detection systems and RNA-targeting therapeutics. CoV2ID is part of the broader VirusScope platform, a suite of genomic databases for highly infectious viruses.
 
 📄 Citation: Carneiro J, Gomes C, Couto C, Pereira F. CoV2ID: Detection and Therapeutics Oligo Database for SARS-CoV-2. bioRxiv 2020. https://doi.org/10.1101/2020.04.19.048991
+
+João, C. (2026). CoV2ID: Detection-and-Therapeutics-Oligo-Database-for-SARS-CoV-2 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19555145
